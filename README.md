@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @GA_IA
+- 👋 Hi, I’m Rawitath Withanthamrong or GA_IA
+- 🏫 I'm currently studing at School of Information Technology, KMITL
 - 👀 I’m interested in making Game, Game Engine, Source Editor 
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on ...
